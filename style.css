@@ -449,9 +449,10 @@ form .btn3{
 @media only screen and (max-width:600px){
 
     .header-text{
-        margin-top: 100%;
+        margin-top: 50%;
         font-size: 16px;
         margin-left: 10px;
+
     }
     .header-text h1{
         font-size: 30px;
@@ -520,4 +521,11 @@ form .btn3{
     .copyright{
         font-size: 14px;
     }
+}
+
+
+#msg{
+    color: #61b752;
+    margin-top: -20px;
+    display: block;
 }
